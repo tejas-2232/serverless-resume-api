@@ -1,28 +1,26 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Tejas Bachhav",
+    "label": "Cloud Engineer",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
+    "email": "tejasbachhav98@gmail.com",
+    "phone": "11111 22222",
     "url": "https://johndoe.com",
     "summary": "A summary of John Doe…",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Pune",
+      "countryCode": "IN",
+      "region": "Maharashtra"
     },
     "profiles": [{
       "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
+      "username": "bachhav_tejas",
+      "url": "https://twitter.com/bachhav_tejas"
     }]
   },
   "work": [{
-    "name": "Company",
-    "position": "President",
+    "name": "Organisation",
+    "position": "Vice President",
     "url": "https://company.com",
     "startDate": "2013-01-01",
     "endDate": "2014-01-01",
@@ -43,15 +41,22 @@
     ]
   }],
   "education": [{
-    "institution": "University",
+    "institution": " Pune University",
     "url": "https://institution.com/",
-    "area": "Software Development",
+    "area": "Computer Science",
     "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
+    "startDate": "2016-08-01",
+    "endDate": "2020-05-01",
+    "score": "3.4",
     "courses": [
-      "DB1101 - Basic SQL"
+      "Data structures and Alogorithms",
+      "web technologies",
+      "Computer Graphics",
+      "Computer Networks",
+      "Design and Analysis of Alogorithms",
+      "Computer Organization and Architecture",
+      "Microprocessors",
+      "System programming and operating systems"     
     ]
   }],
   "awards": [{
@@ -98,19 +103,20 @@
     "reference": "Reference…"
   }],
   "projects": [{
-    "name": "Project",
-    "description": "Description…",
+    "name": "Twitter Analysis using machine learning algorithms",
+    "description": "AIM: to indentofy fake accounts on Twitter and stop spreading rumors…",
     "highlights": [
-      "Won award at AIHacks 2016"
+      "Won best seminar topic award in college"
     ],
     "keywords": [
-      "HTML"
+      "Machine leaning",
+      "image processing"
     ],
-    "startDate": "2019-01-01",
-    "endDate": "2021-01-01",
+    "startDate": "2018-09-01",
+    "endDate": "2018-09-15",
     "url": "https://project.com/",
     "roles": [
-      "Team Lead"
+      "Presenter"
     ],
     "entity": "Entity",
     "type": "application"
