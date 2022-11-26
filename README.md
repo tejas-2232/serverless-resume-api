@@ -66,3 +66,30 @@ Create an [API](https://learn.microsoft.com/training/modules/build-api-azure-fun
 2. In your GitHub repo, create a secret named `AZURE_FUNCTIONAPP_PUBLISH_PROFILE` with the contents of your publish profile.
 3. Head to Actions tab on your Repo and manually run the workflow. 
 4. Once it's complete. Visit Azure, select resource groups. find rg-serverlessresumeapi, and click on the function app, then click on the url, add getresume to the end of it, your resume info will be displayed. 
+
+
+## Troubleshooting Errors
+
+* You might face error while provisioning resources in azure.
+* These are the errors I faced while deployment
+
+1. __Regarding hosting plan:__ It will prompt error like, change the sku or location. <br> 
+
+2. __No instances can be provisioned in your selected region:__ This is the problem with Resource providers.
+
+__Solution for 1 & 2:__ Go to subscriptions -> Select your subscription -> Under settings tab select *Resource provider* -> Search for Microsoft.compute and select it -> you will see a action bar on top of it -> Click on register
+
+* It will take some time to register.
+
+* Then you can deploy your resources.
+
+3. __main.bicep deployment file already exists in *your-region* :__ 
+
+__Solution for 3:__ Go to subscriptions -> Select your subscription -> Under settings tab select *Deployments* -> You will see a main file -> Delete it -> run command again to deploy.
+
+
+ 
+
+
+
+
