@@ -96,11 +96,12 @@ resource functionApp 'Microsoft.Web/sites@2022-03-01' = {
   }
 }
 
+// this application insights resource is for monitoring purpose
 resource applicationInsights 'Microsoft.Insights/components@2020-02-02' = {
   name: applicationInsightsName
   location: location
   kind: 'web'
-  properties: {
+  properties: { 
     Application_Type: 'web'
     Request_Source: 'rest'
   }
