@@ -5,8 +5,8 @@
     "image": "",
     "email": "tejasbachhav98@gmail.com",
     "phone": "11111 22222",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "url": "https://www.github.com/tejas-2232",
+    "summary": "Tejas is currently working as a Cloud Automation Engineer.He helped various clients to automate their cloud infrastructure by providing robust and modular solutions for better performance and efficiency.Tejas has used Ansible, Jenkins CI/CD, Shell, PowerShell, Azure, AWS extensively while building the solution. He shares a great interest in Cloud infrastructure, DevOps, AI/ML, and Quantum Computing. His Goal is to make the Earth more greener and sustainable for the upcoming generation.",
     "location": {
       "city": "Pune",
       "countryCode": "IN",
@@ -19,38 +19,44 @@
     }]
   },
   "work": [{
-    "name": "Organisation",
-    "position": "Vice President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
+    "name": "Accenture",
+    "position": "Cloud Automation Analyst",
+    "url": "https://www.accenture.com/in-en",
+    "startDate": "2020-30-11",
+    "summary": "- Develop industry-standard Infrastructure as code Solutions for potential clients. Identify, build and deploy robust solutions on the cloud with a modular approach. Identifying faults, rectification of errors, planning of tasks ahead of time for enhancing automation performance.",
     "highlights": [
-      "Started the company"
+      "Helped clients to reduce hours of server deployement and configuration work from 40 hours to 4 minutes",
+      "Created Documetation to create stepwise process for installation and configuration procedures"
     ]
   }],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "organization": "National Service Scheme",
+    "position": "Volunteer & CS Department Head",
+    "startDate": "2018-01-06",
+    "endDate": "2020-31-05",
+    "summary": "Create teams and lead them for NSS events.",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      "Awarded for 'Disaster recovery and urgent help' in a natural calamity at College",
+      "Attended Campsight for 7 days at remote village area to promote health, sanity and install good habits in people"
     ]
   }],
   "education": [{
     "institution": " Pune University",
-    "url": "https://institution.com/",
+    "url": "http://www.unipune.ac.in/",
     "area": "Computer Science",
-    "studyType": "Bachelor",
+    "studyType": "Bachelor of Engineering",
     "startDate": "2016-08-01",
     "endDate": "2020-05-01",
-    "score": "3.4",
+    "score": "7.7",
     "courses": [
       "Data structures and Alogorithms",
       "web technologies",
+      "Artificial Intelligence & Machine Learning",
+      "Data Analytics",
+      "Data Mining and Warehousing",
+      "Engineering Mathematics-I",
+      "Engineering Mathematics-II",
+      "Engineering Mathematics-III",
       "Computer Graphics",
       "Computer Networks",
       "Design and Analysis of Alogorithms",
@@ -59,18 +65,42 @@
       "System programming and operating systems"     
     ]
   }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+  "certificates": [{
+    "name": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+    "date": "2020-05-13",
+    "issuer": "DeepLearning.AI",
+    "url": "https://www.coursera.org/account/accomplishments/verify/4LXVP7UQ7WYD"
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "name": "Data Analysis with Python",
+    "date": "2019-11-14",
+    "issuer": "CognitiveClass.ai",
+    "url": "https://courses.cognitiveclass.ai/certificates/99981a43a0fd40deaf16fe708f582675"
   }],
+  "certificates": [{
+    "name": "Data analytics and Visualization",
+    "date": "2019-11-15",
+    "issuer": "TakenMind Technologies",
+    "Credential ID": "19381"
+  }],
+  "certificates": [{
+    "name": "Python 101 for Data Science",
+    "date": "2019-08-05",
+    "issuer": "CognitiveClass.ai",
+    "url":"https://courses.cognitiveclass.ai/certificates/35d30648125f4f4b96ae057c8752f1f9"
+  }],
+  "certificates": [{
+    "name": "Aviatrix - Multicloud Network Associate",
+    "date": "2022-02-03",
+    "issuer": "Aviatrix",
+    "url": "https://www.credly.com/badges/740b32e1-2f21-40c3-8402-4ee7decb1efa?source=linked_in_profile"
+  }],
+  "certificates": [{
+    "name": "AWS Certified Cloud Practitioner",
+    "date": "2021-07-01",
+    "issuer": "AWS"
+  }],
+
   "publications": [{
     "name": "Publication",
     "publisher": "Company",
@@ -79,29 +109,29 @@
     "summary": "Description…"
   }],
   "skills": [{
-    "name": "Web Development",
-    "level": "Master",
+    "name": "Cloud Automation DevOps",
+    "level": "7/10",
     "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript"
+      "Ansible",
+      "Bash",
+      "Terraform",
+      "postman"
     ]
   }],
   "languages": [{
     "language": "English",
-    "language": "French",
-    "fluency": "Native speaker"
+    "fluency": "Business English"
   }],
   "interests": [{
     "name": "Reading",
     "keywords": [
       "Non-fiction",
-      "Articles"
+      "science-based Articles"
     ]
   }],
   "references": [{
     "name": "Peter",
-    "reference": "I would recommend Tejas as he has helped the clients to build robust automations using Ansible. Tejas has tremendous work ethic and a strong desire to learn and grow. He provides effective communication and collaboration towards creating a mature and robust automation offering for our customers. Tejas has a great attitude and is always willing and forthcoming to anyone who needs his help  "
+    "reference": "I would recommend Tejas as he has helped the clients to build robust automations using Ansible. Tejas has tremendous work ethic and a strong desire to learn and grow. He provides effective communication and collaboration towards creating a mature and robust automation offering for our customers. Tejas has a great attitude and is always willing and forthcoming to anyone who needs his help"
   }],
   "projects": [{
     "name": "Twitter Analysis using machine learning algorithms",
