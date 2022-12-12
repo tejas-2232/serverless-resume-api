@@ -84,10 +84,20 @@
     "Credential ID": "19381"
   }],
   "certificates": [{
+    "name": "AWS Machine Learning Scholarship-Fundamentals",
+    "date": "2020-08-10",
+    "issuer": "Udacity"  
+  }],
+  "certificates": [{
     "name": "Python 101 for Data Science",
     "date": "2019-08-05",
     "issuer": "CognitiveClass.ai",
     "url":"https://courses.cognitiveclass.ai/certificates/35d30648125f4f4b96ae057c8752f1f9"
+  }],
+  "certificates": [{
+    "name": "AWS Certified Cloud Practitioner",
+    "date": "2021-07-01",
+    "issuer": "AWS"
   }],
   "certificates": [{
     "name": "Aviatrix - Multicloud Network Associate",
@@ -96,9 +106,9 @@
     "url": "https://www.credly.com/badges/740b32e1-2f21-40c3-8402-4ee7decb1efa?source=linked_in_profile"
   }],
   "certificates": [{
-    "name": "AWS Certified Cloud Practitioner",
-    "date": "2021-07-01",
-    "issuer": "AWS"
+    "name": "Red Hat Certified System Administrator (RHCSA) Rapid Customized Track",
+    "date": "2022-05-01",
+    "issuer": "RedHat"
   }],
 
   "publications": [{
