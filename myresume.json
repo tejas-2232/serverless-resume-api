@@ -92,15 +92,15 @@
     "fluency": "Native speaker"
   }],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Reading",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Non-fiction",
+      "Articles"
     ]
   }],
   "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
+    "name": "Peter",
+    "reference": "I would recommend Tejas as he has helped the clients to build robust automations using Ansible. Tejas has tremendous work ethic and a strong desire to learn and grow. He provides effective communication and collaboration towards creating a mature and robust automation offering for our customers. Tejas has a great attitude and is always willing and forthcoming to anyone who needs his help  "
   }],
   "projects": [{
     "name": "Twitter Analysis using machine learning algorithms",
